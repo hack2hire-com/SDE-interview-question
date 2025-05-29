@@ -26,6 +26,21 @@ Whether you're preparing for FAANG or fast-growing startups, Hack2Hire helps you
 
 # Company List
 
+### 🧭 Navigation
+
+- [Amazon](#amazon)
+- [Google](#google)
+- [Meta](#meta)
+- [Microsoft](#microsoft)
+- [Uber](#uber)
+- [Coinbase](#coinbase)
+- [DoorDash](#doordash)
+- [Confluent](#confluent)
+- [Lyft](#lyft)
+- [Affirm](#affirm)
+- [Robinhood](#robinhood)
+- [Yelp](#yelp)
+
 ## Amazon
 
 [**Top Leetcode Question**](https://www.hack2hire.com/by-company/content/67be0556b46d2b950531291a?company=AMAZON&type=BLOG)
