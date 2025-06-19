@@ -40,7 +40,8 @@ Whether you're preparing for FAANG or fast-growing startups, Hack2Hire helps you
 - [Affirm](#affirm)
 - [Robinhood](#robinhood)
 - [Yelp](#yelp)
-
+- [Pinterest](#pinterest)
+  
 ## Amazon
 
 [**Top Leetcode Question**](https://www.hack2hire.com/by-company/content/67be0556b46d2b950531291a?company=AMAZON&type=BLOG)
@@ -512,3 +513,33 @@ Here are the top LeetCode problems frequently asked by **Yelp**:
 | 5    | [Count Alert Triggers](https://www.hack2hire.com/by-company/content/67ff3b3ca19f45c95d405689?company=YELP&type=ALGORITHM) | Screening, Onsite |
 |      | [[→ View More Questions]](https://www.hack2hire.com/by-company/question-overview?company=YELP&type=ALGORITHM) |                   |
 
+
+### Pinterest
+
+[**Top Leetcode Question**](https://www.hack2hire.com/by-company/content/683a455bce21c7044910c4da?company=PINTEREST&type=BLOG)
+
+Here are the top LeetCode problems frequently asked by **Pinterest**:
+
+- [38. Count and Say](https://leetcode.com/problems/count-and-say/)
+- [136. Single Number](https://leetcode.com/problems/single-number/)
+- [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
+- [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
+- [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+- [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)
+- [815. Bus Routes](https://leetcode.com/problems/bus-routes/)
+- [1055. Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)
+- [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+- [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
+- [2302. Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/)
+
+**Top Non-Leetcode Question**
+
+|  | Question | Stages |
+| --- | --- | --- |
+| 1 | [Reverse Count and Say](https://www.hack2hire.com/by-company/content/67f56cb283ba2e5f057e6df8?company=YELP&type=ALGORITHM) | Screening |
+| 2 | [Escape Room](https://www.hack2hire.com/by-company/content/67fab1d5ba41b3368f4e585f?company=YELP&type=ALGORITHM) | Onsite |
+| 3 | [Spam Caller Counter](https://www.hack2hire.com/by-company/content/67f9968855e478de52401ddc?company=YELP&type=ALGORITHM) | Onsite |
+| 4 | [Find Restaurant Intervals](https://www.hack2hire.com/by-company/content/6833ebf4c7e9643eccb00bf3?company=PINTEREST&type=ALGORITHM) | Screening |
+| 5 | [Max Non-overlapping Tasks](https://www.hack2hire.com/by-company/content/67ff3b3ca19f45c95d405689?company=YELP&type=ALGORITHM) | Onsite |
+|  | [[→ View More Questions]](https://www.hack2hire.com/by-company/question-overview?company=YELP&type=ALGORITHM) |  |
